@@ -7,7 +7,7 @@ Restaurant.create!({
 Restaurant.create!({
   name: "El Pibe",
   address: "Lisbon"
-}
+})
 Restaurant.create!({
   name: "Forninho",
   address: "Lisbon"
